@@ -1,0 +1,10 @@
+# Material de clientes nunca vai para o GitHub
+Clientes/*
+!Clientes/.gitkeep
+
+# Segredos
+*.env
+.env*
+*senha*
+*password*
+*credenciais*
